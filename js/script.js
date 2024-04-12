@@ -19,5 +19,5 @@ function calculateTheCel() {
 
 
   // output
-  document.getElementById('celcius').innerHTML = 'celcius is : ' + celcius.toFixed(3)
+  document.getElementById('celcius').innerHTML = 'celcius is : ' + celcius.toFixed(3) +"°C"
 }
